@@ -1,4 +1,4 @@
-# co0764af7bcc2738e9be81e9a
+https://notes-2022.netlify.app/
 
 Quick start:
 
